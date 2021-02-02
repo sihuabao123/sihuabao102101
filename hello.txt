@@ -2,3 +2,4 @@
 222
 test fork01
 test friend01
+test ssh01
